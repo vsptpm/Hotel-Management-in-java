@@ -1,5 +1,5 @@
 # Hotel-Management-in-java
-Simple Hotel management system using Java and MySQL database
+Simple Hotel management system using Java and MySQL database 
 ---------------------------------------------------------------------
 SQL database 'hotelmanagement' contains following tables
 
